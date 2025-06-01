@@ -29,7 +29,7 @@
 
 ## Anteproyecto
 
-- [https://www.notion.so/cde2c56a6be14ee4a83b05a6a25432f9](https://www.notion.so/cde2c56a6be14ee4a83b05a6a25432f9)
+- [https://www.notion.so/Voliberia-Anteproyecto-203401f4234e805c8e62ea633418c4c1?source=copy_link](https://www.notion.so/Voliberia-Anteproyecto-203401f4234e805c8e62ea633418c4c1?source=copy_link)
 
 ---
 
