@@ -27,6 +27,8 @@
 - [https://github.com/SamuelAvella/voliberiaAndroid](https://github.com/SamuelAvella/voliberiaAndroid)
 - [https://github.com/SamuelAvella/Voliberia_TFG/releases/download/assets/app-debug.apk](https://github.com/SamuelAvella/Voliberia_TFG/releases/download/assets/app-debug.apk)
 
+- Error inexplicado de camara solvenatado, post-entrega, vease release camera-fix o descripción commit [https://github.com/SamuelAvella/Voliberia_TFG/releases/download/camera/app-release.apk](https://github.com/SamuelAvella/Voliberia_TFG/releases/download/camera/app-release.apk)
+
 
 ### 🐍 **Python**
 
