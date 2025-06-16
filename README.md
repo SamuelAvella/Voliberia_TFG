@@ -20,10 +20,13 @@
 ### 🖥 **Web**
 
 - [https://github.com/SamuelAvella/Voliberia-Angular](https://github.com/SamuelAvella/Voliberia-Angular)
+- [https://voliberia.netlify.app](https://voliberia.netlify.app)
 
 ### 📱 **Móvil**
 
 - [https://github.com/SamuelAvella/voliberiaAndroid](https://github.com/SamuelAvella/voliberiaAndroid)
+- [https://github.com/SamuelAvella/Voliberia_TFG/releases/download/assets/app-debug.apk](https://github.com/SamuelAvella/Voliberia_TFG/releases/download/assets/app-debug.apk)
+
 
 ### 🐍 **Python**
 
@@ -116,6 +119,7 @@
 
 ## 🧑‍🏫 Presentación
 
+<a href="https://github.com/SamuelAvella/Voliberia_TFG/releases/download/assets/Voliberia.pdf" target="_blank">https://github.com/SamuelAvella/Voliberia_TFG/releases/download/assets/Voliberia.pdf</a> 
 <p>
   En el repositorio se encuentra adjunto un pdf con la presentación, pero aqui esta el enlace directo a ella:<br>
   <a href="https://www.canva.com/design/DAGp86PGQyM/CZC_TcGfidUItQgyUSXYyw/view?utm_content=DAGp86PGQyM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4d1f5b709b" target="_blank">https://www.canva.com/design/DAGp86PGQyM/CZC_TcGfidUItQgyUSXYyw/view?utm_content=DAGp86PGQyM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4d1f5b709b</a>
